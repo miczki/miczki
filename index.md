@@ -77,5 +77,5 @@ _06.2011 - 08.2013_
 - Developed clients and conducted sales activities for EU area - Germany, Netherlands, Spain.
 - Carried out road transport and organized orders for own fleet and the client's fleet.
 
-### Thank you for getting to the end of this document. If case of any qustions do not hesitate to contact me, you can find my contact details on the top of this page.
+Thank you for getting to the end of this document. If case of any qustions do not hesitate to contact me, you can find my contact details on the top of this page.
 ### Mikołaj Mielczarek
