@@ -8,8 +8,8 @@ Feel free to contact me with any business inquires. You can call me at any time,
 
 - mobile phone: +48 609 77 61 61
 - [mik.mielczarek@protonmail.ch](mailto:mik.mielczarek@protonmail.ch)
-- [linkedin](https://www.linkedin.com/in/mikolajmielczarek/)
-- [side project, photography](https://www.instagram.com/mielczarekfotografia/)
+- [LinkedIN profile](https://www.linkedin.com/in/mikolajmielczarek/)
+- [Instagram profile, side project, photography](https://www.instagram.com/mielczarekfotografia/)
 
 ## Education and certificates
 - Wyższa Szkoła Bankowa we Wrocławiu, business logistics, 2011
