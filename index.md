@@ -7,9 +7,9 @@ I am a logistics multi-instrumentalist, so far I have worked both in forwarding 
 Feel free to contact me with any business inquires. You can call me at any time, if I cannot answer, I will call you back as soon as possible.
 
 - mobile phone: +48 609 77 61 61
-- email: mik.mielczarek@protonmail.ch
-- linkedin: https://www.linkedin.com/in/mikolajmielczarek/
-- side project: https://www.instagram.com/mielczarekfotografia/
+- [mik.mielczarek@protonmail.ch](mailto:mik.mielczarek@protonmail.ch)
+- [linkedin](https://www.linkedin.com/in/mikolajmielczarek/)
+- [side project, photography](https://www.instagram.com/mielczarekfotografia/)
 
 ## Education and certificates
 - Wyższa Szkoła Bankowa we Wrocławiu, business logistics, 2011
@@ -44,12 +44,12 @@ Feel free to contact me with any business inquires. You can call me at any time,
 **Business owner - Project Managment and Logistics Consulting**
 
 - Implementation of tools supporting eCommerce processes in the warehouse
-- Managing client's projects in eCommerce area (Magento, Baselinker, Shoper, Ads, SEO)
+- Managing client's projects in eCommerce area (Magento, [Baselinker](http://baselinker.com), [Shoper](http://shoper.pl), Ads, SEO)
 - Running Facebook Ads and Google Ads marketing campaigns
 - Audits of the areas of storage and use of forklifts, also in terms of health and safety
 - Recruitment projects for clients in the areas of IT, eCommerce, logistics
 
-### ZPUE S.A.
+### [ZPUE S.A.](https://zpue.pl)
 _07.2018 - 03.2021_
 
 **Internal logistics and warehouse manager** 
@@ -60,20 +60,20 @@ _07.2018 - 03.2021_
 - Developed KPIs and bonus systems aimed at improving efficiency and quality.
 - Raised the team's competencies through internal and external training, developed leaders and deputies, increased the team's motivation with no additional cost.
 
-### Pamapol Group
+### [Pamapol Group](https://www.grupapamapol.pl)
 _08.2013 - 04.2017_
 
 **Logistics and warehouse manager**
 - Managed teams of 4 to 50 people.
 - Built a logistics department in a production company, starting from scratch to a fully operational logistics and purchasing department. I trained the deputy, implemented the IT system in the area, introduced efficiency and quality parameters. Then I moved on to warehouse management.
-- Completed several investment projects for the entire organization - pallet management, warehousing, forklifts, implemented IT supervision in internal fleet management.
-- Implemented the WMS system in the area of warehouse and production and modernized high-bay warehouses, introduced scanners and locations.
+- Completed several investment projects for the entire organization - [pallet management](https://www.chep.com/pl/pl/consumer-goods), warehousing, [forklifts](https://toyota-forklifts.pl/wynajem-wozkow/wynajem-wozka/), implemented IT supervision in internal fleet management.
+- Implemented the [WMS system](https://www.skk.com.pl) in the area of warehouse and production and modernized high-bay warehouses, introduced scanners and locations.
 
 ### Domestic shipping companies
 _06.2011 - 08.2013_
 
 **Freight Agent**
-- Managed contracts for forwarding services based on Just-In-Time for the automotive sector.
+- Managed contracts for forwarding services based on Just-In-Time for the automotive sector (Wabco, GKN Driveline).
 - Developed clients and conducted sales activities for EU area - Germany, Netherlands, Spain.
 - Carried out road transport and organized orders for own fleet and the client's fleet.
 
