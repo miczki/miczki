@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @miczki aka Mikołaj Mielczarek
-- 👀 I’m interested in web development, eCommerce, logistics and project managment
-- 🌱 Always learning how to manage projects better
-- 💞️ I’m looking to collaborate on project managment, preferebly in eCommerce or logistics area
-- 📫 You can find more details about my expirience and skills here: https://bit.ly/mikolaj-resume-git
+- 👋  Hi, I’m @miczki aka Mikołaj Mielczarek
+- 👀  I’m interested in web development, eCommerce, logistics and project managment
+- 🌱  Always learning how to manage projects better
+- 💞️  I’m looking to collaborate on project managment, preferebly in eCommerce or logistics area
+- 📫  You can find more details about my expirience and skills here: https://bit.ly/mikolaj-resume-git
