@@ -28,7 +28,7 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - smooth and advanced use of Microsoft 365 and Google Suite 
 - usage of project management software like Jira, Kanban, Redmine, Slack
 
-## Knowlage 
+## Knowledge 
 - architecture of WMS / ERP systems and integration in the warehousearea supporting eCommerce activity (Baselinker, courier integrations)
 - implementing changes in the organization,
 - road transport, supported by trolleys, overhead cranes and cranes
