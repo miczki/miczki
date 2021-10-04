@@ -20,6 +20,17 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - LinkedIN Learning: _Scrum: The Basics_
 - Crane UDT certifcate 1Ż and 2Ż
 
+In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Practitioner.
+November to December 2021: planned certification for Prince2 Foundation & Practitioner and Prince2 Agile.
+January 2022: planned certification for Scrum Master PSM I. 
+
+Uzupełniająco do mojej aplikacji chciałbym przekazać informację o szkoleniach, które rozpoczynam w tym miesiącu – AgilePM® Foundation & Practitioner, pierwszy poziom powinienem uzyskać wedle informacji z Inprogress jeszcze w tym miesiącu, wykupiony pakiet szkoleniowy obejmuje również szkolenia z zakresu Scrum, Prince2 oraz Prince2 Agile - tutaj realnie certyfikacja do końca bieżącego roku. 
+
+Pozdrawiam,
+Mikołaj Mielczarek  
+609776161
+ 
+
 ## Key skills
 - team player, managing structures from 40 to 250 people, including scattered and in an interdisciplinary environment
 - strategic thinking about the organization and its development
