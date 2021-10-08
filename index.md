@@ -22,7 +22,7 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - Crane UDT certifcate 1Ż and 2Ż
 
 In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Prince2® Foundation. 
-November to December 2021: planned certification for Prince2® Practitioner and Prince2 Agile.
+November to December 2021: planned certification for Prince2® Practitioner and Prince2® Agile.
 January 2022: planned certification for Scrum Master PSM I and AgilePM® Practicioner. 
 
 ## Key skills
