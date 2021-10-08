@@ -18,7 +18,7 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - LinkedIN Learning: _Learning Jira Software_
 - LinkedIN Learning: _Planning and Releasing Software with JIRA_ 
 - LinkedIN Learning: _Scrum: The Basics_
-- Inprogress: Agile Business Consortium Scrum Master training
+- [Inprogress: Agile Business Consortium Scrum Master training](https://inprogress.pl/szkolenia/agile-scrum/abcscrum/agile-business-consortium-scrum-master/)
 - Crane UDT certifcate 1Ż and 2Ż
 
 In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Practitioner.
