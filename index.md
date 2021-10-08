@@ -27,6 +27,7 @@ January 2022: planned certification for Scrum Master PSM I and AgilePM® Practic
 
 ## Key skills
 - team player, managing structures from 40 to 250 people, including scattered and in an interdisciplinary environment
+- efficient project managment, knowledge retention and team managment towards project's goal 
 - strategic thinking about the organization and its development
 - preparation and initiation of projects to improve efficiency, reduce errors, implement proprietary solutions in logistics, bonus systems, maintenance and TPM, Lean, 5S, Poka-Yoke
 - investment and project management, incl. in Agile and Scrum methodology, with budgets from 20k to 1.5 million PLN
@@ -35,6 +36,7 @@ January 2022: planned certification for Scrum Master PSM I and AgilePM® Practic
 
 ## Knowledge 
 - architecture of WMS / ERP systems and integration in the warehousearea supporting eCommerce activity (Baselinker, courier integrations)
+- principles of Agile and Scrum frameworks, 
 - implementing changes in the organization,
 - road transport, supported by trolleys, overhead cranes and cranes
 - efficient production and manufacturing processes
