@@ -26,7 +26,7 @@ Feel free to contact me with any business inquires. You can call me at any time,
 
 In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Prince2® Foundation & Scrum Master PSM I. 
 November to December 2021: planned certification for Prince2® Practitioner and Prince2® Agile.
-January 2022: planned certification for and AgilePM® Practicioner. 
+January 2022: planned certification for AgilePM® Practicioner. 
 
 ## Key skills
 - team player, managing structures from 40 to 250 people, including scattered and in an interdisciplinary environment
