@@ -19,14 +19,14 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - LinkedIN Learning: _Planning and Releasing Software with JIRA_ 
 - LinkedIN Learning: _Scrum: The Basics_
 - [Inprogress: Agile Business Consortium Scrum Master training](https://inprogress.pl/szkolenia/agile-scrum/abcscrum/agile-business-consortium-scrum-master/)
-- [Inprogress: AgilePM® Foundation]:(https://inprogress.pl/szkolenia/zarzadzanie-projektami-programami-i-portfelem/agilepm/agilepm-foundation/)
-- [Inprogress: PRINCE2® 6th edition Foundation]:(https://inprogress.pl/szkolenia/zarzadzanie-projektami-programami-i-portfelem/prince2/prince2-foundation/)
-- [Inprogress: Scrum Master PSM I]:(https://inprogress.pl/szkolenia/agile-scrum/scrum-szkolenia-autorskie/psm-i/)
+- [Inprogress: AgilePM® Foundation](https://inprogress.pl/szkolenia/zarzadzanie-projektami-programami-i-portfelem/agilepm/agilepm-foundation/)
+- [Inprogress: PRINCE2® 6th edition Foundation](https://inprogress.pl/szkolenia/zarzadzanie-projektami-programami-i-portfelem/prince2/prince2-foundation/)
+- [Inprogress: Scrum Master PSM I](https://inprogress.pl/szkolenia/agile-scrum/scrum-szkolenia-autorskie/psm-i/)
 - Crane UDT certifcate 1Ż and 2Ż
 
-In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Prince2® Foundation. 
+In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Prince2® Foundation & Scrum Master PSM I. 
 November to December 2021: planned certification for Prince2® Practitioner and Prince2® Agile.
-January 2022: planned certification for Scrum Master PSM I and AgilePM® Practicioner. 
+January 2022: planned certification for and AgilePM® Practicioner. 
 
 ## Key skills
 - team player, managing structures from 40 to 250 people, including scattered and in an interdisciplinary environment
