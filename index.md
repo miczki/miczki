@@ -39,7 +39,7 @@ January 2022: planned certification for AgilePM® Practicioner.
 - usage of project management software like Jira, Kanban, Redmine, Slack
 
 ## Knowledge 
-- architecture of WMS / ERP systems and integration in the warehousearea supporting eCommerce activity (Baselinker, courier integrations)
+- architecture of WMS / ERP systems and integration in the warehouse area supporting eCommerce activity (Baselinker, courier integrations)
 - principles of Agile and Scrum frameworks, 
 - implementing changes in the organization,
 - road transport, supported by trolleys, overhead cranes and cranes
