@@ -7,9 +7,8 @@ I am a logistics multi-instrumentalist, so far I have worked both in forwarding 
 Feel free to contact me with any business inquires. You can call me at any time, if I cannot answer, I will call you back as soon as possible.
 
 - mobile phone: +48 609 77 61 61
-- [mik.mielczarek@protonmail.ch](mailto:mik.mielczarek@protonmail.ch)
+- [mikolaj@mikomiel.pl](mailto:mikolaj@mikomiel.pl)
 - [LinkedIN profile](https://www.linkedin.com/in/mikolajmielczarek/)
-- [Instagram profile, side project, photography](https://www.instagram.com/mielczarekfotografia/)
 
 ## Education and certificates
 - Wyższa Szkoła Bankowa we Wrocławiu, business logistics, 2011
