@@ -25,12 +25,10 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - [APMG: AgilePM® Foundation Certificate, 45/50 test result, 10.10.2021](https://www.credly.com/badges/d49b460c-ec0f-46b7-88c0-9ec948a89104/print)
 - UDT: Crane certifcate 1Ż and 2Ż
 
-In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)) and started certification for AgilePM® Foundation & Prince2® Foundation & Scrum Master PSM I. 
-November to December 2021: planned certification for Prince2® Practitioner and Prince2® Agile.
-January 2022: planned certification for AgilePM® Practicioner. 
+In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)), including AgilePM® Foundation & Prince2® Foundation & Scrum Master PSM I. 
 
 ## Key skills
-- team player, managing structures from 40 to 250 people, including scattered and in an interdisciplinary environment
+- team player, managing structures from 10 to 250 people, including scattered and in an interdisciplinary environment
 - efficient project managment, knowledge retention and team managment towards project's goal 
 - strategic thinking about the organization and its development
 - preparation and initiation of projects to improve efficiency, reduce errors, implement proprietary solutions in logistics, bonus systems, maintenance and TPM, Lean, 5S, Poka-Yoke
@@ -40,14 +38,14 @@ January 2022: planned certification for AgilePM® Practicioner.
 
 ## Knowledge 
 - the architecture of WMS / ERP systems and integration in the warehousearea, including support of eCommerce activity (SKK, Comarch, SAP, Baselinker, courier integrations)
+- Magento small/medium scale implementantions for eCommerce - migrations, golive and maintenance 
 - implementing changes in the organization,
 - road transport, supported by trolleys, gantry cranes, and cranes
-- road transport, supported by trolleys, overhead cranes and cranes
 - efficient production and manufacturing processes
 - reliable fleet and safe warehouse
 - health and safety in the area of logistics
 - food industry, plastics, electrical engineering, eCommerce
-- foundational principles of Python, T-SQL, Swift programming and development tools like VSC, Xcode and GitHub
+- foundational principles of Python, T-SQL, Swift programming and development tools like VSC, Xcode and GitHub/Gitlab
 
 ## Experience
 
@@ -59,6 +57,15 @@ January 2022: planned certification for AgilePM® Practicioner.
 - Running Facebook Ads and Google Ads marketing campaigns
 - Audits of the areas of storage and use of forklifts, also in terms of health and safety
 - Recruitment projects for clients in the areas of IT, eCommerce, logistics
+
+### [Strix]((https://www.strix.net/)
+_11.2021 - present_
+
+**eCommerce Project Manager** 
+- Manage development team of 5-9 people.
+- Completed several Magento migration/golive events. 
+- Taking care of projects focused on maintenance phase.
+- Nurture relationships with clients in UK, Germany and Poland.
 
 ### [ZPUE S.A.](https://zpue.pl)
 _07.2018 - 03.2021_
