@@ -57,7 +57,7 @@ In October 2021 started 6 month training series ([Inprogress Plus](https://inpro
 - Audits of the areas of storage and use of forklifts, also in terms of health and safety
 - Recruitment projects for clients in the areas of IT, eCommerce, logistics
 
-### [Strix]((https://www.strix.net/)
+### [Strix](https://www.strix.net/)
 _11.2021 - present_
 
 **eCommerce Project Manager** 
