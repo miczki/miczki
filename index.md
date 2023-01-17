@@ -64,7 +64,10 @@ _11.2021 - present_
 - Manage development team of 5-9 people including Tech Lead, Tester, Backend and Frontend Developers
 - Completed several Magento migration/golive events for small and medium e-commerce projects;
 - Taking care of projects focused on maintenance phase with separate extend budget in corporate envrioment;
-- Nurture relationships with clients in UK, Germany and Poland.
+- Nurture relationships with clients in UK, Germany and Poland;
+- Helping team grow with retrospectives, one on ones and making sure we work in supportive and open way;
+- Recognized for proactive attitude, helping others and always being there to support with company's award on annual 2022 winter event.
+
 
 ### [ZPUE S.A.](https://zpue.pl)
 _07.2018 - 03.2021_
