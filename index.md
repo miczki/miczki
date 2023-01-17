@@ -61,9 +61,9 @@ In October 2021 started 6 month training series ([Inprogress Plus](https://inpro
 _11.2021 - present_
 
 **eCommerce Project Manager** 
-- Manage development team of 5-9 people.
-- Completed several Magento migration/golive events. 
-- Taking care of projects focused on maintenance phase.
+- Manage development team of 5-9 people including Tech Lead, Tester, Backend and Frontend Developers
+- Completed several Magento migration/golive events for small and medium e-commerce projects;
+- Taking care of projects focused on maintenance phase with separate extend budget in corporate envrioment;
 - Nurture relationships with clients in UK, Germany and Poland.
 
 ### [ZPUE S.A.](https://zpue.pl)
