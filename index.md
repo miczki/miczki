@@ -38,14 +38,15 @@ In October 2021 started 6 month training series ([Inprogress Plus](https://inpro
 
 ## Knowledge 
 - the architecture of WMS / ERP systems and integration in the warehousearea, including support of eCommerce activity (SKK, Comarch, SAP, Baselinker, courier integrations)
-- Magento small/medium scale implementantions for eCommerce - migrations, golive and maintenance 
+- Magento small/medium/large scale implementantions for eCommerce - migrations, golive and maintenance
+- e-commerce security, performance tests and Playwright automated tests are something I worked on with my teams
+- foundational principles of Python, T-SQL, Swift programming and development tools like VSC, Xcode and GitHub/Gitlab
 - implementing changes in the organization,
 - road transport, supported by trolleys, gantry cranes, and cranes
 - efficient production and manufacturing processes
 - reliable fleet and safe warehouse
 - health and safety in the area of logistics
 - food industry, plastics, electrical engineering, eCommerce
-- foundational principles of Python, T-SQL, Swift programming and development tools like VSC, Xcode and GitHub/Gitlab
 
 ## Experience
 
