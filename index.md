@@ -29,12 +29,13 @@ In October 2021 started 6 month training series ([Inprogress Plus](https://inpro
 
 ## Key skills
 - team player, managing structures from 10 to 250 people, including scattered and in an interdisciplinary environment
-- efficient project managment, knowledge retention and team managment towards project's goal 
+- project management, waterfall and agile alike, incl. in Agile and Scrum methodology, with budgets from 20k to 3.5 million PLN
+- standarization of good practices, knowledge retention and team managment towards project's goal 
 - strategic thinking about the organization and its development
-- preparation and initiation of projects to improve efficiency, reduce errors, implement proprietary solutions in logistics, bonus systems, maintenance and TPM, Lean, 5S, Poka-Yoke
-- investment and project management, incl. in Agile and Scrum methodology, with budgets from 20k to 1.5 million PLN
 - smooth and advanced use of Microsoft 365 and Google Suite 
-- usage of project management software like Jira, Kanban, Redmine, Slack
+- usage of project management software like Jira, Redmine, Slack, PowerBI, Confluence
+- preparation and initiation of projects to improve efficiency, reduce errors, implement proprietary solutions in logistics, bonus systems, maintenance and TPM, Lean, 5S, Poka-Yoke
+
 
 ## Knowledge 
 - the architecture of WMS / ERP systems and integration in the warehousearea, including support of eCommerce activity (SKK, Comarch, SAP, Baselinker, courier integrations)
