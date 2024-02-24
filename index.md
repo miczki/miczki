@@ -22,6 +22,7 @@ Feel free to contact me with any business inquires. You can call me at any time,
 - [Inprogress: PRINCE2® 6th edition Foundation](https://inprogress.pl/szkolenia/zarzadzanie-projektami-programami-i-portfelem/prince2/prince2-foundation/)
 - [Inprogress: Scrum Master PSM I](https://inprogress.pl/szkolenia/agile-scrum/scrum-szkolenia-autorskie/psm-i/)
 - [APMG: AgilePM® Foundation Certificate, 45/50 test result, 10.10.2021](https://www.credly.com/badges/d49b460c-ec0f-46b7-88c0-9ec948a89104/print)
+- [APMG: AgilePM® Practicioner Certificate, 41/50 test result, 23.08.2023](https://www.credly.com/badges/f46d5ae4-6592-462e-a342-4e443cb7da4b/public_url)
 - UDT: Crane certifcate 1Ż and 2Ż
 
 In October 2021 started 6 month training series ([Inprogress Plus](https://inprogress.pl/inprogress-plus-twoja-strefa-rozwoju/)), including AgilePM® Foundation & Prince2® Foundation & Scrum Master PSM I. 
