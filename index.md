@@ -57,8 +57,17 @@ In October 2021 started 6 month training series ([Inprogress Plus](https://inpro
 - Audits of the areas of storage and use of forklifts, also in terms of health and safety
 - Recruitment projects for clients in the areas of IT, eCommerce, logistics
 
+### [Unity Group](https://www.unitygroup.com/)
+_04.2023 - present_
+
+**eCommerce Project Manager** 
+- Line management for development team of 11 people including Tech Lead, Tester, Backend and Frontend Developers
+- Managed project for one of top fashion stores in Poland with maintenece and development of new UX/UI and ERP integration;
+- Took over a project for top3 furniture company in Poland and developed a new Magento2 store from the grounds;
+- Part of internal skill up initiative for project managers - worked on standarization of practices and knowledge retention. 
+
 ### [Strix](https://www.strix.net/)
-_11.2021 - present_
+_11.2021 - 03.2023_
 
 **eCommerce Project Manager** 
 - Manage development team of 5-9 people including Tech Lead, Tester, Backend and Frontend Developers
