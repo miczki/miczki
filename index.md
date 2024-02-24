@@ -1,6 +1,8 @@
 # Welcome to Mikołaj Mielczarek's Resume Page
 
-I am a logistics multi-instrumentalist, so far I have worked both in forwarding and transport as well as in the areas of warehouses and production logistics. Lately due to COVID affecting manufacturing companies I worked for I changed my career path to manage eCommerce projects. When you think about it logistics and project management have a lot in common and I use my previous experience in new exciting areas. Always had the customer-first approach. In a team, I prefer to multiply than divide.
+For 10 years I was a logistics multi-instrumentalist, so far I have worked both in forwarding and transport as well as in the areas of warehouses and production logistics. 
+In 2021 due to COVID affecting manufacturing companies I worked for I changed my career path to manage eCommerce projects. 
+When you think about it logistics and project management have a lot in common and I use my previous experience in new exciting areas. Always had the customer-first approach. In a team, I prefer to multiply than divide.
 
 ## How to contact me
 
