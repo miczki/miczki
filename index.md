@@ -29,17 +29,21 @@ From business logistics to advanced certifications in Agile, Scrum, and project 
 
 ## Diverse Skill Set
 My core skills are a blend of leadership, strategic planning, and technical proficiency, honed through years of hands-on experience:
+
 **Adaptive Leadership**: Proven track record of managing and motivating teams of up to 250 members in multifaceted environments, emphasizing collaboration, growth, and achievement.
+
 **Strategic Project Management**: Expertise in employing Agile and Scrum methodologies to oversee projects with budgets scaling from 20k to 3.5 million PLN, demonstrating a knack for balancing meticulous planning with agile execution.
+
 **Technological Acumen**: Advanced proficiency in a suite of tools and platforms including Microsoft 365, Google Suite, Jira, Redmine, Slack, PowerBI, and Confluence, facilitating efficient project management and communication.
 
 
 ## Knowledge 
 **System Integration Expertise**: Proficient in the architecture and integration of WMS and ERP systems, including dispatch management systems, enhancing warehouse and e-commerce operations.
+
 **E-Commerce Solutions**: Advanced experience in Magento2, specializing in integration with external shipping, marketing services, and ERP software like Navision for streamlined operations.
+
 **IT Systems Implementation**: Implemented IT systems to optimize road transport and manufacturing processes, improving efficiency and productivity.
 Industry-Specific IT Applications: Applied IT solutions in diverse sectors including fashion and furniture, tailoring systems to meet unique industry requirements.
-
 
 ## Experience
 
